@@ -1,0 +1,5 @@
+#[back_porch]            # camera name
+#user: ftp               # ftp username
+#password: password      # ftp password
+#host: 192.168.1.1       # ftp host
+#directory: /mnt/public  # ftp share
